@@ -1,1 +1,1 @@
-# ☕ Projeto de Front-end responsivo.
+# ☕ Projeto front-end responsivo.
